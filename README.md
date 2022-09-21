@@ -2,6 +2,8 @@ metric number appearance #193
 
 
 youtu.be/ZHgFEhExYfY
+3mm leadscrews
+1:6 servodrive setup
 
 # Clough42 Lathe Electronic Leadscrew Controller
 
