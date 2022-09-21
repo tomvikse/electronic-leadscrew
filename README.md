@@ -1,5 +1,5 @@
 metric number appearance #193
-https://youtu.be/ZHgFEhExYfY
+htt ps://youtu.be/ZHgFEhExYfY
 
 # Clough42 Lathe Electronic Leadscrew Controller
 
