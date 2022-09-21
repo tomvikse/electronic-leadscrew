@@ -1,3 +1,5 @@
+metric number appearance #193
+
 # Clough42 Lathe Electronic Leadscrew Controller
 
 This is the firmware for a lathe electronic leadscrew controller.  The goal is to replace the change
