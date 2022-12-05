@@ -5,7 +5,7 @@ youtu.be/ZHgFEhExYfY
 
 3mm leadscrews
 
-1:6 servodrive setup
+1:6 servodrive setup(servo set to 500 steps)
 
 # Clough42 Lathe Electronic Leadscrew Controller
 
